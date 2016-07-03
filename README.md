@@ -5,7 +5,7 @@ Project: Magazine subscription management
 
 This project was developed for the college course web design and programming. This was my first encounter with developing web applications so it was made for the purpose of learning. Technologies used in this project are: PHP, Smarty, JavaScript, JQuery, HTML, CSS and Ajax.
 
-Interesting this about developing this project is that every single line of code (PHP, JavaScript, HTML, CSS) was written in Notepad++. So you can imagine what was like learning all these technologies and manually searching for syntax errors :)
+Interesting thing about developing this project is that every single line of code (PHP, JavaScript, HTML, CSS) was written in Notepad++. So you can imagine what was like learning all these technologies and manually searching for syntax errors :)
 
 Project description:
 The task was to build magazine subscription management web application using PHP programming language.
